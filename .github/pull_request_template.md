@@ -1,14 +1,13 @@
+#### PR Details
 #### Ticket Type
-
+		  
 - [] Feature
 - [] Bug
 - [] Task
+		  
+#### Feature/Ticket Status
 
-#### Change Type
+- [] Partial (Not Ready for QA)
+- [] Complete (Ready for QA)
 
-- [] Software
-- [] Database Schema
-
-#### External Ticket Link (i.e. Jira)
-
-Paste it on a new line:
+#### External Ticket Link (i.e. Jira) - Paste link on a new line below
